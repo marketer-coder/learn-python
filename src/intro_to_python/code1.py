@@ -8,7 +8,7 @@ y = t
 # swapping without temp variable
 x = 1
 y = 5
-x = x+y
+x = x + y
 y = x - y
 x = x - y
 
